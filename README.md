@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=35C06E&center=true&vCenter=true&lines=Back-end+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=40&duration=2700&color=35C06E&center=true&vCenter=true&width=1000&lines=Back-end+Developer)](https://git.io/typing-svg)
 
 Hi 👋 My name is Lucas
 ==========================
