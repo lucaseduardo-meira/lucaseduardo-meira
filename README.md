@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Back-end Student
 ----------------
 
-I'm a 18 years old Back-end self-taught student. I started coding when i was 15 years old and figure it out how to solve problems by myself. My main focus is back-end development, making applications that impact the life of thousands of users.
+I'm a 19 years old Back-end self-taught student. I started coding when i was 15 years old and figure it out how to solve problems by myself. My main focus is back-end development, making applications that impact the life of thousands of users.
 
 * 🌍  I'm based in Rio Grande do Norte, Brazil
 * ✉️  You can contact me at [lucasmeira0501@gmail.com](mailto:lucasmeira0501@gmail.com)
